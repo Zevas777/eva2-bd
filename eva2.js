@@ -110,6 +110,196 @@ canal:{nombreCanal:"TechWorld",suscriptores:300000},
 videos:[{titulo:"Review de computadores",visitas:500000,likes:20000,duracion:"15:45",
 comentarios:[{usuario:"Ana",mensaje:"Me ayudo mucho",likesComentario:100}]}
 ]
+},
+
+{
+_id:11,
+nombre:"German Garmendia",
+email:"german@gmail.com",
+canal:{nombreCanal:"HolaSoyGerman",suscriptores:45000000},
+videos:[
+{titulo:"Las cosas obvias de la vida",visitas:120000000,likes:5000000,duracion:"07:30",
+comentarios:[{usuario:"Pedro",mensaje:"Un clásico de YouTube",likesComentario:900}]}
+]
+},
+
+{
+_id:12,
+nombre:"Luis Arturo Villar Sudek",
+email:"luisito@gmail.com",
+canal:{nombreCanal:"Luisito Comunica",suscriptores:45000000},
+videos:[{titulo:"Visitando un país desconocido",visitas:25000000,likes:900000,duracion:"25:40",
+comentarios:[{usuario:"Ana",mensaje:"Me encanta conocer lugares con tus videos",likesComentario:350}]}
+]
+},
+
+{
+id:13,
+nombre:"Raúl Álvarez Genes",
+email:"auron@gmail.com",
+canal:{nombreCanal:"AuronPlay",suscriptores:30000000},
+videos:[{titulo:"Reaccionando a videos virales",visitas:15000000,likes:700000,duracion:"18:20",
+comentarios:[{usuario:"Luis",mensaje:"Muy divertido",likesComentario:220}]}
+]
+},
+
+{
+id:14,
+nombre:"German Garmendia",
+email:"germanjuega@gmail.com",
+canal:{nombreCanal:"JuegaGerman",suscriptores:50000000},
+videos:[{titulo:"Jugando videojuegos de terror",visitas:40000000,likes:2000000,duracion:"20:15",
+comentarios:[{usuario:"Sofia",mensaje:"Me dio mucho miedo",likesComentario:500}]}
+]
+},
+
+{
+id:15,
+nombre:"Mariand Castrejón Castañeda",
+email:"yuya@gmail.com",
+canal:{nombreCanal:"Yuya",suscriptores:25000000},
+videos:[{titulo:"Rutina de maquillaje fácil",visitas:18000000,likes:800000,duracion:"12:45",
+comentarios:[{usuario:"Maria",mensaje:"Muy buenos consejos",likesComentario:150}]}
+]
+},
+
+{
+id:16,
+nombre:"Dross Rotzank",
+email:"dross@gmail.com",
+canal:{nombreCanal:"DrossRotzank",suscriptores:22000000},
+videos:[{titulo:"Historias de terror reales",visitas:30000000,likes:1200000,duracion:"35:10",
+comentarios:[{usuario:"Diego",mensaje:"Excelente narración",likesComentario:600}]}
+]
+},
+
+{
+id:17,
+nombre:"Samuel de Luque",
+email:"vegetta@gmail.com",
+canal:{nombreCanal:"VEGETTA777",suscriptores:35000000},
+videos:[{titulo:"Minecraft extremo",visitas:50000000,likes:2500000,duracion:"28:30",
+comentarios:[{usuario:"Carlos",mensaje:"Gran aventura",likesComentario:800}]}
+]
+},
+
+{
+id:18,
+nombre:"Kimberly Loaiza",
+email:"kimberly@gmail.com",
+canal:{nombreCanal:"Kimberly Loaiza",suscriptores:45000000},
+videos:[{titulo:"Nuevo vlog familiar",visitas:20000000,likes:1000000,duracion:"15:35",
+comentarios:[{usuario:"Valentina",mensaje:"Muy entretenido",likesComentario:300}]}
+]
+},
+
+{
+id:19,
+nombre:"David Cánovas Martínez",
+email:"grefg@gmail.com",
+canal:{nombreCanal:"TheGrefg",suscriptores:19000000},
+videos:[{titulo:"Evento de Fortnite",visitas:10000000,likes:600000,duracion:"22:50",
+comentarios:[{usuario:"Mateo",mensaje:"La mejor partida",likesComentario:250}]}
+]
+},
+
+{
+id:20,
+nombre:"Sergio Moles Montes",
+email:"nexxuz@gmail.com",
+canal:{nombreCanal:"NexxuzHD",suscriptores:6000000},
+videos:[{titulo:"Supervivencia en Minecraft",visitas:8000000,likes:400000,duracion:"30:25",
+comentarios:[{usuario:"Pablo67",mensaje:"Buen episodio",likesComentario:100}]}
+]
+},
+
+{
+id:22,
+nombre:"Mark Fischbach",
+email:"mark@gmail.com",
+canal:{nombreCanal:"Markiplier",suscriptores:37000000},
+videos:[{titulo:"Jugando juegos de terror",visitas:30000000,likes:1800000,duracion:"25:15",
+comentarios:[{usuario:"Pedro",mensaje:"Tus reacciones son las mejores",likesComentario:600}]}
+]
+},
+{
+id:23,
+nombre:"Emma Chamberlain",
+email:"emma@gmail.com",
+canal:{nombreCanal:"EmmaChamberlain",suscriptores:12000000},
+videos:[{titulo:"Un día conmigo",visitas:9000000,likes:700000,duracion:"18:25",
+comentarios:[{usuario:"Laura",mensaje:"Me encanta su estilo",likesComentario:300}]}
+]
+},
+
+{
+id:24,
+nombre:"Marques Brownlee",
+email:"marques@gmail.com",
+canal:{nombreCanal:"MKBHD",suscriptores:20000000},
+videos:[{titulo:"Review del nuevo smartphone",visitas:7000000,likes:400000,duracion:"12:15",
+comentarios:[{usuario:"Diego",mensaje:"Excelente análisis",likesComentario:250}]}
+]
+},
+
+{
+id:25,
+nombre:"Casey Neistat",
+email:"casey@gmail.com",
+canal:{nombreCanal:"CaseyNeistat",suscriptores:13000000},
+videos:[{titulo:"Mi rutina diaria",visitas:15000000,likes:900000,duracion:"10:20",
+comentarios:[{usuario:"Sofia",mensaje:"Gran edición",likesComentario:180}]}
+]
+},
+
+{
+id:26,
+nombre:"Zachary Hsieh",
+email:"zach@gmail.com",
+canal:{nombreCanal:"ZHC",suscriptores:30000000},
+videos:[{titulo:"Dibujando cosas gigantes",visitas:25000000,likes:1200000,duracion:"22:00",
+comentarios:[{usuario:"Mario",mensaje:"Arte increíble",likesComentario:400}]}
+]
+},
+
+{
+id:27,
+nombre:"KSI",
+email:"ksi@gmail.com",
+canal:{nombreCanal:"KSI",suscriptores:24000000},
+videos:[{titulo:"Nuevo video de entretenimiento",visitas:18000000,likes:1000000,duracion:"14:35",
+comentarios:[{usuario:"Luis",mensaje:"Muy buen video",likesComentario:220}]}
+]
+},
+
+{
+id:28,
+nombre:"Ninja",
+email:"ninja@gmail.com",
+canal:{nombreCanal:"Ninja",suscriptores:23000000},
+videos:[{titulo:"Mejores partidas de Fortnite",visitas:12000000,likes:800000,duracion:"25:50",
+comentarios:[{usuario:"Andres",mensaje:"Gran jugador",likesComentario:350}]}
+]
+},
+
+{
+id:29,
+nombre:"Lilly Singh",
+email:"lilly@gmail.com",
+canal:{nombreCanal:"Superwoman",suscriptores:15000000},
+videos:[{titulo:"Comedia y sketches",visitas:10000000,likes:600000,duracion:"09:45",
+comentarios:[{usuario:"Maria",mensaje:"Muy divertida",likesComentario:200}]}
+]
+},
+
+{
+id:30,
+nombre:"Ryan Higa",
+email:"ryaniga@gmail.com",
+canal:{nombreCanal:"nigahiga",suscriptores:21000000},
+videos:[{titulo:"Parodias famosas",visitas:14000000,likes:750000,duracion:"11:30",
+comentarios:[{usuario:"Juan",mensaje:"Extraño estos videos",likesComentario:300}]}
+]
 }
 ])
             
